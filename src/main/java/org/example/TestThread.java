@@ -8,7 +8,6 @@ public class TestThread {
     public static void main(String[] args) {
         for (int i = 0; i < size; i++) {
             arr[i] = 1;
-
         }
 
         TestThread test = new TestThread();
